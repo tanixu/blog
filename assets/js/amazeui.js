@@ -261,7 +261,6 @@
         'use strict';
 
         /* jshint -W040 */
-
         var $ = (typeof window !== "undefined" ? window.jQuery : typeof global !==
           "undefined" ? global.jQuery : null);
 
